@@ -1,0 +1,17 @@
+{
+  "pin": [
+    {
+      "title": "Sample Pin",
+      "image": "",
+      "collaborators": ["Cust A", " CustB"],
+      "privacy": "Public"
+    }
+  ],
+  "customers": [
+    {
+      "title": "Cust A",
+      "email": "custA@cust.com",
+      "region": "Gurgaon",
+      "country": "India"
+    }  ]
+}
